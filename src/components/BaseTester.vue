@@ -12,7 +12,7 @@
 
 <script>
 export default {
-  name: "BaseTester"
+  name: 'BaseTester'
 }
 </script>
 
